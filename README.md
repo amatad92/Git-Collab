@@ -1,2 +1,2 @@
 # Git-Collab
-Finalizing the git journey
+-Concluding the git journey
